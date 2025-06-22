@@ -45,7 +45,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Inventory Items</h1>
+      <h1>Users</h1>
 
       <div style={{ marginBottom: '20px' }}>
         <input
