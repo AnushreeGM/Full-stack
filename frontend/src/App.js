@@ -50,13 +50,13 @@ function App() {
       <div style={{ marginBottom: '20px' }}>
         <input
           type="text"
-          placeholder="Item name"
+          placeholder="User name"
           value={name}
           onChange={(e) => setName(e.target.value)}
         />
         <input
           type="number"
-          placeholder="Quantity"
+          placeholder="Age"
           value={quantity}
           onChange={(e) => setQuantity(e.target.value)}
         />
